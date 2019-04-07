@@ -1,5 +1,5 @@
-<body marginheight="0"><h1>ReadMe</h1>
-<p>This repository is for EE596 homework submission.
+<body marginheight="0"><h1>Practical Introduction to Neural Networks</h1>
+<p>This repository is for EE596B homework submission.
 
 </p>
 <p>-Xavier Yuan
